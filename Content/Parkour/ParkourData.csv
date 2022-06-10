@@ -1,5 +1,5 @@
 ,Type,Montage,PlayRatio,Section,MinDistance,MaxDistance,Extent,FixedCamera
-1,Climb,AnimMontage'/Game/Character/Montages/Parkour/WallRunClimb_Montage.WallRunClimb_Montage',2,,30,150,580,TRUE
+1,Climb,AnimMontage'/Game/Character/Montages/Parkour/Run_Climb_Montage.Run_Climb_Montage',2,,30,150,580,TRUE
 2,Slide,AnimMontage'/Game/Character/Montages/Parkour/SingleSlider_Montage.SingleSlider_Montage',1.25,,150,350,30,TRUE
 3,Short,AnimMontage'/Game/Character/Montages/Parkour/Short_HandSpring_To_Roll_ShortlVault_Montage.Short_HandSpring_To_Roll_ShortlVault_Montage',1.25,,400,500,80,TRUE
 4,Short,AnimMontage'/Game/Character/Montages/Parkour/Short_Flip_And_Roll_Montage.Short_Flip_And_Roll_Montage',1.25,,200,350,80,TRUE
